@@ -6,7 +6,7 @@
 - 👯 I’m looking to collaborate on ...Open-source projects
 - 🤔 I’m looking for help with ...Errors
 - 💬 Ask me about ...Development
-- 📫 How to reach me: ...[Twitter](https://twitter.com/AkshatJ42477107?t=BuPMuOylzM3dhT-zGZVRbg&s=09)
+- 📫 How to reach me: ...[Twitter](https://twitter.com/easyakshat)
 - 😄 Pronouns: ...He/Him
 - ⚡ Fun fact: ...Big Foddie
 -->
