@@ -1,8 +1,8 @@
 ### Hi there 👋
 
 
-- 🔭 I’m currently working on ...Youtube
-- 🌱 I’m currently learning ...Vue.js
+- 🔭 I’m currently working on ...Projetcs
+- 🌱 I’m currently learning ...React.js
 - 👯 I’m looking to collaborate on ...Open-source projects
 - 🤔 I’m looking for help with ...Errors
 - 💬 Ask me about ...Development
