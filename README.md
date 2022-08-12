@@ -30,7 +30,7 @@
 
 <h2>My Github contributions getting eaten by a 🐍</h2>
 <p align="left">
-  <img alig src="https://github.com/Smartmayukh/Smartmayukh/blob/output/github-contribution-grid-snake.svg" />
+  <img alig src="https://github.com/akshat2jain/akshat2jain/blob/output/github-contribution-grid-snake.svg" />
 </p>
 
 ![](https://komarev.com/ghpvc/?username=akshat2jain)
