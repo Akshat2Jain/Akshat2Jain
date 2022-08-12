@@ -28,4 +28,9 @@
 
 ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=akshat2jain&theme=neon-palenight&hide_border=true)
 
+<h2>My Github contributions getting eaten by a 🐍</h2>
+<p align="left">
+  <img alig src="https://github.com/Smartmayukh/Smartmayukh/blob/output/github-contribution-grid-snake.svg" />
+</p>
+
 ![](https://komarev.com/ghpvc/?username=akshat2jain)
