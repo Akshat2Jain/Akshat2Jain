@@ -2,6 +2,7 @@
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?multiline=true&width=500&lines=Frontend+web+developer.++++++++++)](https://git.io/typing-svg)
 
 
+
 <img src="https://github-readme-stats.vercel.app/api?username=akshat2jain&show_icons=true&theme=radical" align="left"/>
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=akshat2jain&layout=compact"/>
 <br><br>
