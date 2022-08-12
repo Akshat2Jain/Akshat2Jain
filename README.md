@@ -1,9 +1,12 @@
 # Hi there, I'm Akshat Jain! 👋
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?multiline=true&width=500&lines=Frontend+web+developer.++++++++++)](https://git.io/typing-svg)
+
 
 <img src="https://github-readme-stats.vercel.app/api?username=akshat2jain&show_icons=true&theme=radical" align="left"/>
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=akshat2jain&layout=compact"/>
+<br><br>
 
-
+**Languages and Tools:** 
 
 ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
 ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
@@ -21,3 +24,8 @@
 ![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white)
 ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white)
 ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=java&logoColor=white)
+
+
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=akshat2jain&theme=neon-palenight&hide_border=true)
+
+![](https://komarev.com/ghpvc/?username=akshat2jain)
