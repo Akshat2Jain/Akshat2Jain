@@ -1,7 +1,7 @@
 # Hi there, I'm Akshat Jain! 👋
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?multiline=true&width=500&lines=Fullstack+web+developer.++++++++++)](https://git.io/typing-svg)
 
-- 🔭 I’m currently working on [Doctor Appointment Managment System](https://github.com/Akshat2Jain/Doctor_Appointment_System)
+- 🔭 I’m currently working on [making Youtube Videos](https://www.youtube.com/@hey_akshat)
 
 - 🌱 I’m currently learning **Frontend Testing (Mocha)**
 
