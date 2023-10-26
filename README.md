@@ -34,12 +34,3 @@
 
 ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=akshat2jain&theme=neon-palenight&hide_border=true)
 
-<h3 align="left">Connect with me:</h3>
-
-<p align="left">
-<a href="https://twitter.com/easyakshat" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="easyakshat" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/akshat-jain-991571209" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="akshat-jain-991571209" height="30" width="40" /></a>
-<a href="https://instagram.com/akshat.jsx" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="akshat.jsx" height="30" width="40" /></a>
-<a href="https://www.youtube.com/c/@hey_akshat" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="@hey_akshat" height="30" width="40" /></a>
-<a href="https://discord.gg/.akshat_jain" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt=".akshat_jain" height="30" width="40" /></a>
-</p>
