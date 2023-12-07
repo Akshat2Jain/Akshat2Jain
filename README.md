@@ -3,9 +3,9 @@
 
 - 🔭 I’m currently working on building a React Native App for my startup(Glideride)
 
-- 🌱 I’m currently learning **Frontend Testing (Mocha)**
+- 🌱 I’m currently learning **Graph Ql**
 
-- 👯 I’m looking to collaborate on [Equilix - Vs code extension](https://github.com/Akshat2Jain/Equilix)
+- 👯 I’m looking to collaborate on [GlideRide-Online Booking System](https://github.com/GlideRide-online/Online-Booking-System)
 
 - 🤝 I’m looking for help with [React-Native](https://github.com/Akshat2Jain/React-Native-Beginner-s-Project)
 
