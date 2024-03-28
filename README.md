@@ -1,13 +1,7 @@
 # Hi there, I'm Akshat Jain! 👋
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?multiline=true&width=500&lines=Fullstack+web+developer.++++++++++)](https://git.io/typing-svg)
 
-- 🔭 I’m currently working on building a React Native App for my startup(Glideride)
-
-- 🌱 I’m currently learning **Graph Ql**
-
-- 👯 I’m looking to collaborate on [GlideRide-Online Booking System](https://github.com/GlideRide-online/Online-Booking-System)
-
-- 🤝 I’m looking for help with [React-Native](https://github.com/Akshat2Jain/React-Native-Beginner-s-Project)
+- 🌱 I’m currently learning **Prisma**
 
 - 👨‍💻 All of my projects are available at [https://ajme.vercel.app/Projects](https://ajme.vercel.app/Projects)
 
