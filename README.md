@@ -1,7 +1,7 @@
 # Hi there, I'm Akshat Jain! 👋
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?multiline=true&width=500&lines=Fullstack+web+developer.++++++++++)](https://git.io/typing-svg)
 
-- 🌱 I’m currently learning **Prisma**
+- 🌱 I’m currently learning **Monoreps**
 
 - 👨‍💻 All of my projects are available at [https://ajme.vercel.app/Projects](https://ajme.vercel.app/Projects)
 
