@@ -13,7 +13,7 @@
 
 - 📄 Know about my experiences [https://ajme.vercel.app/Experience](https://ajme.vercel.app/Experience)
 
-- ⚡ Fun fact **The average person will spend six months of their life waiting for red lights to turn green.**
+- ⚡ Fun fact **The average person will wait six months for red lights to turn green.**
 
 <img src="https://github-readme-stats.vercel.app/api?username=akshat2jain&show_icons=true&theme=radical" align="left"/>
 <br><br>
